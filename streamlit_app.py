@@ -17,6 +17,37 @@ st.image(header_image_url, use_column_width=True)
 st.title("Welcome")
 st.write("content appearing below.")
 
-# ---
-# Option 2: Local Image File (Uncomment lines below if loading a local file)
-# st.image("path/to/your/header_image.jpg", use_column_width=True)
+#################### ----------------Purchase Order & Verification System------------------------- #########################
+st.markdown("---")
+st.subheader("📄 Purchase Order & Verification System")
+st.markdown("[Purchase Order & Verification System](https://shivam-girrag-po-app-sktjwrhte2s.streamlit.app)")
+
+#################### ----------------Production Stock & Rill Stock Manager------------------------ #########################
+st.markdown("---")
+st.subheader("📄 Production Stock & Rill Stock Manager")
+st.markdown("[Production Stock & Rill Stock Manager App](https://making-cost-rill-stock-app.streamlit.app)")
+
+#################### ----------------Paper Sheet Stock Manager------------------------ #########################
+st.markdown("---")
+st.subheader("📄 Paper Sheet Stock Manager")
+st.markdown("[Paper Sheet Stock Manager App](https://girraj-shivam-duplex-app-o38bcfp0ulj.streamlit.app)")
+    
+#################### ---------------- Quality Test Report Generator ------------------------ #########################
+st.markdown("---")
+st.subheader("Quality Test Report Generator")
+st.markdown("[Quality Test Report Generator App](https://idyllic-unicorn-9a9402.netlify.app)")
+
+#################### ---------------- Tax Invoice Generator (Tally Layout) ------------------------ #########################
+st.markdown("---")
+st.subheader("Tax Invoice Generator")
+st.markdown("[Tax Invoice Generator App](https://lively-parfait-437225.netlify.app)")
+
+#################### ---------------- Carton Box Cost Calculator ---------------------------#################
+st.markdown("---")
+st.subheader("Carton Box Cost Calculato")
+st.markdown("[Carton Box Cost Calculato App](https://nimble-conkies-8f0b18.netlify.app)")
+
+#################### ------------------- ⭐Paper Sheet Stock Manager Pro⭐-----------------######################
+st.markdown("---")
+st.subheader("⭐Paper Sheet Stock Manager Pro⭐")
+st.markdown("[⭐Paper Sheet Stock Manager Pro⭐ App](https://paper-sheet-stock-manager-pro-app-nxpye3ifupi.streamlit.app/)")
