@@ -14,8 +14,8 @@ header_image_url = "https://github.com/sanjit-bs/Girraj_Packaging/blob/main/New%
 st.image(header_image_url, use_column_width=True)
 
 # App Content below the header
-st.title("Welcome to My Streamlit App")
-st.write("This content appears directly below the header image.")
+st.title("Welcome")
+st.write("content appearing below.")
 
 # ---
 # Option 2: Local Image File (Uncomment lines below if loading a local file)
