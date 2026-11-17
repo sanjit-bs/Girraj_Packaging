@@ -15,7 +15,7 @@ st.image(header_image_url, use_column_width=True)
 
 # App Content below the header
 st.title("Welcome")
-st.write("content appearing below.")
+st.write("Entry points appearing below.")
 
 #################### ----------------TDS, Inv, Trasport, Loading, Unloading----------------------- #########################
 st.markdown("---")
