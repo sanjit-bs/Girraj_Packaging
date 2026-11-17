@@ -52,6 +52,11 @@ st.markdown("---")
 st.subheader("Carton Box Cost Calculato")
 st.markdown("[Carton Box Cost Calculato App](https://nimble-conkies-8f0b18.netlify.app)")
 
+# #################### ----------------Paper Sheet Stock Manager------------------------ #########################
+# st.markdown("---")
+# st.subheader("📄 Paper Sheet Stock Manager")
+# st.markdown("[Paper Sheet Stock Manager App](https://girraj-shivam-duplex-app-o38bcfp0ulj.streamlit.app)")
+
 #################### ------------------- ⭐Paper Sheet Stock Manager Pro⭐-----------------######################
 st.markdown("---")
 st.subheader("⭐Paper Sheet Stock Manager Pro⭐")
